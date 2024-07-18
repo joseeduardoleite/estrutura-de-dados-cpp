@@ -39,7 +39,7 @@ using namespace std;
         }
     }
 
-    void stack::print() {
+    void stack::topPrint() {
         if (isEmpty()) {
             cout << "The stack is empty!\n";
         } else {

@@ -29,7 +29,7 @@ int main() {
             cout << "Elemento removido: " << item << endl;
             break;
         case 3:
-            firstStack.print();
+            firstStack.topPrint();
             break;
         default:
             cout << "Opção errada, tente novamente!";

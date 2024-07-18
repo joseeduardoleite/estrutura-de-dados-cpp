@@ -16,14 +16,6 @@ class stack
         bool isEmpty();
         void push(ItemType item);
         ItemType pop();
-        void print();
+        void topPrint();
         ItemType size();
 };
-
-    // stack::stack(/* args */)
-    // {
-    // }
-
-    // stack::~stack()
-    // {
-    // }
