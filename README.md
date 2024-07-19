@@ -1,14 +1,14 @@
 # Estrutura de Dados 
 
 ## Pilha (Stack)
-### Explicação e exemplo de código nesse repositório em C++:
-- [Exemplo de Stack](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/Stack)
+#### Explicação e exemplo de código nesse repositório em C++:
+- [Stack](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/Stack)
 
 ---
 
 ## Fila (Queue)
-### Explicação e exemplo de código nesse repositório em C++:
-- [Exemplo de Queue](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/Queue)
+#### Explicação e exemplo de código nesse repositório em C++:
+- [Queue](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/Queue)
 
 ---
 
@@ -139,7 +139,7 @@ Uma **lista encadeada** é uma estrutura de dados onde cada elemento é um nó q
 ##
 
 ## Busca Binária
-### Explicação e exemplo de código nesse repositório em C++:
-- [Exemplo de BinarySearch](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/BinarySearch)
+#### Explicação e exemplo de código nesse repositório em C++:
+- [BinarySearch](https://github.com/joseeduardoleite/estrutura-de-dados-cpp/tree/main/BinarySearch)
 
 ---
